@@ -1,1 +1,1 @@
-thtj
+console.log("Привет")
